@@ -33,7 +33,7 @@ todas as suas listas e tarefas.
 
 As principais funcionalidade descritas no backlog possui ao menos uma tela representando sua interface esperada.
 
-### 🖼️ Protótipo do Requisito HU-1
+### 🖼️ Protótipo dos Requisitos
 
 ![Protótipo da tela do projeto ](wireframe1.png)
 **Figura 1**: Protótipo da tela do projeto.
